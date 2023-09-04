@@ -1,0 +1,20 @@
+.js-start {
+  width: 200px;
+  height: 30px;
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+
+.js-container {
+  display: flex;
+  gap: 10px;
+}
+
+.item {
+  padding: 0;
+  width: 180px;
+  height: 146px;
+  border: 2px solid darkgreen;
+  font-size: 100px;
+  text-align: center;
+}
